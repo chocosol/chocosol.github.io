@@ -463,7 +463,7 @@ h6 {
 #hero .carousel-inner .carousel-item-next.carousel-item-start,
 #hero .carousel-inner .carousel-item-prev.carousel-item-end {
   opacity: 1;
-  transition: 1.5s;
+  transition: 1.0s;
 }
 
 #hero .carousel-inner .carousel-item-next,
